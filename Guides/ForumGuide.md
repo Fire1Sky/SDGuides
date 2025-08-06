@@ -19,7 +19,7 @@ DFH is used for people to promote themselves and their services which are develo
 |Rule|Explanation|Punishment|Post Example|
 |----|-----------|----------|------------|
 |Portfolio Requirement|All posts within DFH must have either a portfolio or references to past work.|Warning|[Press to see](../Assets/ForumGuide/Images/NoPortfolio.png)|
-|Portfolio Type|The portfolio provided cannot be a discord server.|Warning|nil|
+|Portfolio Type|The portfolio provided cannot be a discord server.|Warning|[Press to see](../Assets/ForumGuide/Images/DiscordPortfolio.png)|
 |Payment Clarity|Be clear on how you want to be paid and when (Upfront? With Cashapp?)|Warning|[Press to see](../Assets/ForumGuide/Images/NoPaymentClarity.png)|
 |Detailed Listing|List how long you've been working for, what you do/offer, what worked on before and such.|Warning|[Press to see](../Assets/ForumGuide/Images/NoDetailedListing.png)|
 |Licensing|Ensure that all work you provide is original or properly licensed. Do not misrepresent/steal work of others|Ban (3 months - permanent)|nil|
