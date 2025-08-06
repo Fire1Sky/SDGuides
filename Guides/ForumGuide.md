@@ -24,6 +24,16 @@ DFH is used for people to promote themselves and their services which are develo
 |Detailed Listing|List how long you've been working for, what you do/offer, what worked on before and such.|Warning|[Press to see](../Assets/ForumGuide/Images/NoDetailedListing.png)|
 |Licensing|Ensure that all work you provide is original or properly licensed. Do not misrepresent/steal work of others|Ban (3 months - permanent)|nil|
 
+
+### AFS (Assets for sale)
+AFS is used for people who want to sell any type of asset they've made. Animations, Sounds, Scripts, etc...
+
+|Rule|Explanation|Punishment|Post Example|
+|----|-----------|----------|------------|
+|Clarity|Be clear on how much money you want for the asset you are selling, if they're allowed to resell it, if you're allowed to resell it afterwards, and such details.|Warning|nil|
+|Licensing|Ensure that all work you provide is original or properly licensed. Do not misrepresent/steal work of others|Ban (3 months - permanent)|nil|
+|Showcasing|You must provide a screenshot or a video showcasing the product you are selling.|Warning|nil|
+
 ## Additional Info
 
 *Guide made by Firesky; Updated at 31.07.2025*
