@@ -46,8 +46,6 @@ When a rule was broken, make sure to:
 4. Delete the post
 
 ### Minimum Developer Rates
-<font color="red">as of now, this will not apply until either the mp dep head or the admin will add these somewhere visible in the guidelines (you can only find this in the changelogs). so disregard it until this note disappears</font>
-
 If % is allowed for the Developer type, that means its only allowed as an alternative to real money. That means that compensation must be guaranteed.
 
 |Developer Type|Minimum Amount|% Pay Allowed (Y/N)|
